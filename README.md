@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ashwathim [She/Her]
 - 👀 I’m a Literature and Business major interested in exploring intersection between words and visualization
-- 🌱 I’m currently learning Tableau and Python
+- 🌱 I’m currently learning Python and Power BI
 - 📫 How to reach me @AhwathiMenon93 on twitter
 
 <!---
